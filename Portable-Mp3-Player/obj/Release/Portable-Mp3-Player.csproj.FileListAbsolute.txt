@@ -1,0 +1,10 @@
+C:\Users\vorag\source\repos\Portable-Mp3-Player\Portable-Mp3-Player\bin\Release\Portable-Mp3-Player.exe.config
+C:\Users\vorag\source\repos\Portable-Mp3-Player\Portable-Mp3-Player\bin\Release\Portable-Mp3-Player.exe
+C:\Users\vorag\source\repos\Portable-Mp3-Player\Portable-Mp3-Player\bin\Release\Portable-Mp3-Player.pdb
+C:\Users\vorag\source\repos\Portable-Mp3-Player\Portable-Mp3-Player\obj\Release\Portable-Mp3-Player.csprojAssemblyReference.cache
+C:\Users\vorag\source\repos\Portable-Mp3-Player\Portable-Mp3-Player\obj\Release\Portable_Mp3_Player.FreeMp3Player.resources
+C:\Users\vorag\source\repos\Portable-Mp3-Player\Portable-Mp3-Player\obj\Release\Portable_Mp3_Player.Properties.Resources.resources
+C:\Users\vorag\source\repos\Portable-Mp3-Player\Portable-Mp3-Player\obj\Release\Portable-Mp3-Player.csproj.GenerateResource.cache
+C:\Users\vorag\source\repos\Portable-Mp3-Player\Portable-Mp3-Player\obj\Release\Portable-Mp3-Player.csproj.CoreCompileInputs.cache
+C:\Users\vorag\source\repos\Portable-Mp3-Player\Portable-Mp3-Player\obj\Release\Portable-Mp3-Player.exe
+C:\Users\vorag\source\repos\Portable-Mp3-Player\Portable-Mp3-Player\obj\Release\Portable-Mp3-Player.pdb
